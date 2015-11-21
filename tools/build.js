@@ -3,7 +3,6 @@
     baseUrl: '../assets/js/app',
     // optimize: 'none',
     optimize: 'uglify2',
-    //exclude: ['three'],
     paths: {
         requireLib: '../lib/require'
     },
