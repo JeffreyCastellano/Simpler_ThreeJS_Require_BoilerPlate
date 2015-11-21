@@ -1,0 +1,41 @@
+body {
+	background-color: #000;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	overflow: hidden;
+	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	color: #fff;
+}
+h1 {
+	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	font-size: 20pt;
+	position: absolute;
+	top: 40px;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	letter-spacing: .5em;
+}
+
+span {
+	letter-spacing: .2em;
+}
+
+
+#loading {
+	font-weight: 200;
+	font-size: 12pt;
+	letter-spacing: .5em;
+	position: absolute;
+	top: 50%;
+	width: 100%;
+}
+
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
